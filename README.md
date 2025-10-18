@@ -1,7 +1,6 @@
 ## Hi there, I'm Joshua 👋
 
-🎓 I'm an undergraduate at **New York University (NYU) — Shanghai Campus**,  
-majoring in **Data Science** with a **concentration in AI** and a **minor in Genomics and Bioinformatics**.
+🎓 I'm an undergraduate at **New York University (NYU) — Shanghai Campus**, majoring in **Data Science** with a **concentration in AI** and a **minor in Genomics and Bioinformatics**.
 
 ---
 
@@ -18,5 +17,4 @@ majoring in **Data Science** with a **concentration in AI** and a **minor in Gen
 
 ---
 
-📂 Check out my repositories to see what I’m working on, or connect with me on  
-**[LinkedIn](https://www.linkedin.com/in/joshua-j-sim)**
+📂 Check out my repositories to see what I’m working on, or connect with me on **[LinkedIn](https://www.linkedin.com/in/joshua-j-sim)**
