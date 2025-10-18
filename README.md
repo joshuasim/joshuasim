@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Currently Exploring
+### 💡 Currently Exploring
 - How **data science** and **AI** can be applied to understand complex, real-world problems  
 - **Machine learning**, **data-driven problem solving**, and **AI research**  
 - Using computational tools to gain meaningful **insights from data**  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 Technical Skills
+### 🧰 Technical Skills
 **Languages & Tools:** Python, SQL, Stata, Linux (HPC), Java (basic), Bioinformatics (MetaPhlAn)
 
 ---
